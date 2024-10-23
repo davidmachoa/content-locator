@@ -2,7 +2,7 @@
 /*
 Plugin Name: Content Locator
 Description: Locates and lists various content types used across pages and posts, including Gutenberg blocks, ACF fields, shortcodes, and other content elements. Features expandable rows for viewing associated pages and content details.
-Version: 1.2
+Version: 1.1
 Author: David Macfarlane
 */
 
